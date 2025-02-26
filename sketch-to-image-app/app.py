@@ -2,10 +2,8 @@ from flask import Flask, render_template, request, send_file
 import requests
 import os
 from io import BytesIO
-
 app = Flask(__name__)
 CLIPDROP_API_KEY = "USE_YOUR_API"
-
 @app.route('/')
 def index():
     return render_template('index.html')
@@ -16,7 +14,7 @@ def generate():
     prompt = request.form['prompt']
     
     if not sketch or not prompt:
-        return "Missing sketch or prompt", 400
+        return "Missing sketch or prompt", 500
     
     files = {'sketch_file': (sketch.filename, sketch.stream, sketch.content_type)}
     data = {'prompt': prompt}
