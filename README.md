@@ -1,6 +1,6 @@
 # 🎨 Sketch-to-Image Web App
 
-<div align="center">
+<div align="center"> 
   <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python Version">
   <img src="https://img.shields.io/badge/Flask-2.0+-green.svg" alt="Flask Version">
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
