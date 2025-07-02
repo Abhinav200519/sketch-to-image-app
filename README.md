@@ -98,10 +98,10 @@ This innovative web application bridges the gap between traditional sketching an
 
 | Team Member | Role | Key Responsibilities |
 |-------------|------|---------------------|
-| <img src="https://github.com/ShyamSundaraChary.png?size=100" width="100" height="100" style="border-radius: 50%;"><br>**[Shyam Sundara Chary]**<br>[@ShyamSundaraChary] | 🎯 **Team Lead & API Integration Specialist** | • Project management and coordination<br>• LightX API integration and optimization<br>• System architecture design<br>• Team workflow supervision |
-| <img src="https://github.com/santhoshkrishna-2004.png?size=100" width="100" height="100" style="border-radius: 50%;"><br>**[Santosh Krishna]**<br>[@santhoshkrishna-2004] | 🎨 **Frontend Developer** | • UI/UX design and implementation<br>• Canvas drawing functionality<br>• Responsive web design<br>• User interface optimization |
-| <img src="https://github.com/Abhinav200519.png?size=100" width="100" height="100" style="border-radius: 50%;"><br>**[Abhinav]**<br>[@Abhinav200519] | 🔧 **Backend Developer** | • Flask application development<br>• Server-side logic implementation<br>• Database management<br>• API endpoint creation |
-| <img src="https://github.com/ajay-sys147.png?size=100" width="100" height="100" style="border-radius: 50%;"><br>**[Ajay]**<br>[@ajay-sys147] | 🧪 **Quality Assurance Tester** | • Testing protocols development<br>• Bug identification and reporting<br>• Performance optimization testing<br>• User experience validation |
+| <img src="https://github.com/ShyamSundaraChary.png?size=100" width="100" height="100" style="border-radius: 50%;">**[Shyam]** | 🎯 **Team Lead & API Integration Specialist** | • Project management and coordination<br>• LightX API integration and optimization<br>• System architecture design<br>• Team workflow supervision |
+| <img src="https://github.com/santhoshkrishna-2004.png?size=100" width="100" height="100" style="border-radius: 50%;">**[Santosh Krishna]** | 🎨 **Frontend Developer** | • UI/UX design and implementation<br>• Canvas drawing functionality<br>• Responsive web design<br>• User interface optimization |
+| <img src="https://github.com/Abhinav200519.png?size=100" width="100" height="100" style="border-radius: 50%;">**[Abhinav Sreenivas]** | 🔧 **Backend Developer** | • Flask application development<br>• Server-side logic implementation<br>• Database management<br>• API endpoint creation |
+| <img src="https://github.com/ajay-sys147.png?size=100" width="100" height="100" style="border-radius: 50%;">**[Ajay]** | 🧪 **Quality Assurance Tester** | • Testing protocols development<br>• Bug identification and reporting<br>• Performance optimization testing<br>• User experience validation |
 
 ## 📁 Project Structure
 
