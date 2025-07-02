@@ -20,7 +20,7 @@ This project allows users to **draw sketches** and generate AI-powered images us
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/sketch-to-image.git
+git clone https://github.com/Abhinav200519/sketch-to-image.git
 cd sketch-to-image
 
 ## 2️⃣ Install Dependencies
