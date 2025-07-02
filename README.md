@@ -46,8 +46,8 @@ This innovative web application bridges the gap between traditional sketching an
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Abhinav200519/sketch-to-image.git
-   cd sketch-to-image
+   git clone https://github.com/Abhinav200519/sketch-to-image-app.git
+   cd sketch-to-image-app
    ```
 
 2. **Install Dependencies**
@@ -96,24 +96,12 @@ This innovative web application bridges the gap between traditional sketching an
 
 ## 👥 Our Team
 
-<div align="center">
-
-| ![Shyam](https://github.com/ShyamSundaraChary.png?size=100) | ![Abhinav](https://github.com/Abhinav200519.png?size=100) | ![Ajay](https://github.com/ajay-sys147.png?size=100) | ![Santosh](https://github.com/santhoshkrishna-2004.png?size=100) |
-|:---:|:---:|:---:|:---:|
-| **[Shyam Sundara Chary]** | **[Abhinav]** | **[Ajay]** | **[Santosh Krishna]** |
-| Team Lead & API Integration | Backend Developer | Quality Assurance Tester | Frontend Developer |
-| [@ShyamSundaraChary] | [@Abhinav200519] | [@ajay-sys147] | [@santhoshkrishna-2004] |
-
-</div>
-
-### Team Roles & Responsibilities
-
-| Team Member | Role | Key Contributions |
-|-------------|------|-------------------|
-| **Shyam Sundara Chary** | 🎯 Team Lead & API Integration Specialist | Project management, LightX API integration, system architecture design |
-| **Abhinav** | 🔧 Backend Developer | Flask application development, server-side logic, database management |
-| **Ajay** | 🧪 Quality Assurance Tester | Testing protocols, bug identification, performance optimization |
-| **Santosh Krishna** | 🎨 Frontend Developer | UI/UX design, canvas implementation, responsive design |
+| Team Member | Role | Key Responsibilities |
+|-------------|------|---------------------|
+| <img src="https://github.com/ShyamSundaraChary.png?size=100" width="100" height="100" style="border-radius: 50%;"><br>**[Shyam Sundara Chary]**<br>[@ShyamSundaraChary] | 🎯 **Team Lead & API Integration Specialist** | • Project management and coordination<br>• LightX API integration and optimization<br>• System architecture design<br>• Team workflow supervision |
+| <img src="https://github.com/santhoshkrishna-2004.png?size=100" width="100" height="100" style="border-radius: 50%;"><br>**[Santosh Krishna]**<br>[@santhoshkrishna-2004] | 🎨 **Frontend Developer** | • UI/UX design and implementation<br>• Canvas drawing functionality<br>• Responsive web design<br>• User interface optimization |
+| <img src="https://github.com/Abhinav200519.png?size=100" width="100" height="100" style="border-radius: 50%;"><br>**[Abhinav]**<br>[@Abhinav200519] | 🔧 **Backend Developer** | • Flask application development<br>• Server-side logic implementation<br>• Database management<br>• API endpoint creation |
+| <img src="https://github.com/ajay-sys147.png?size=100" width="100" height="100" style="border-radius: 50%;"><br>**[Ajay]**<br>[@ajay-sys147] | 🧪 **Quality Assurance Tester** | • Testing protocols development<br>• Bug identification and reporting<br>• Performance optimization testing<br>• User experience validation |
 
 ## 📁 Project Structure
 
@@ -173,8 +161,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 
-- 🐛 **Bug Reports**: [Open an Issue](https://github.com/Abhinav200519/sketch-to-image/issues)
-- 💡 **Feature Requests**: [Request a Feature](https://github.com/Abhinav200519/sketch-to-image/issues)
+- 🐛 **Bug Reports**: [Open an Issue](https://github.com/Abhinav200519/sketch-to-image-app/issues)
+- 💡 **Feature Requests**: [Request a Feature](https://github.com/Abhinav200519/sketch-to-image-app/issues)
 - 📧 **General Questions**: Contact the team leads
 
 ---
