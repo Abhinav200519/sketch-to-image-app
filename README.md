@@ -71,4 +71,4 @@ Go to http://127.0.0.1:5000/
 2. Click "Generate" when you're done
 3. Enter a detailed description of what you want the AI to create based on your sketch
 4. View the generated image on the right side of the screen
-5. Download either your sketch or the generated image using the buttons provided
+5. Download either your sketch or the generated image using the buttons provided.
